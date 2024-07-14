@@ -1,1 +1,1 @@
-Small data machine learning project centered around detecting spam messages using UCI's machine learning repository. More information about this can be found in the [paper] (https://drive.google.com/file/d/1FZTl44gK17wrDcSt-xwXox7MJG1b2She/view?usp=sharing)
+Small data machine learning project centered around detecting spam messages using UCI's machine learning repository. More information about this can be found in the [paper](https://drive.google.com/file/d/1FZTl44gK17wrDcSt-xwXox7MJG1b2She/view?usp=sharing)
